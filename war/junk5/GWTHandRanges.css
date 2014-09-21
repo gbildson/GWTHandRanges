@@ -1,0 +1,157 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+.pc-template-btn {
+  display: block;
+  font-size: 16pt;
+  margin: 0px;
+  padding: 0px;
+  border-width: 0px;
+}
+
+.pc2-template-btn {
+  margin: 0px 1px;
+  padding: 0 1px;
+}
+
+.foobar-pc2-color-tp {
+  background-color: #36454F;
+  margin: 1px;
+  padding: 6px;
+  border-width: 1px;
+}
+
+.foobar-pc2-color-dock {
+  background-color: #36454F;
+  margin: 1px;
+  padding: 1px;
+  border-width: 1px;
+}
+
+.pc2-color-tp {
+  background-color: #222222;
+  margin: 1px;
+  padding: 5px;
+  border-width: 4px;
+}
+
+.pc2-color-dock {
+  background-color: #8c8b90;
+  font-weight: bold;
+  margin: 1px;
+  padding: 1px;
+  border-width: 1px;
+}
+
+.nnnfoo-pc2-color-grid {
+  margin: 4px 0px;
+  margin-left: 4px;
+  background-color: #000000;
+  margin: 0px;
+  margin-left: 0px;
+  padding: 0px;
+}
+
+.pc2-color-grid {
+  background-color: #000000;
+}
+
+
+.foobar-pc2-template-grid {
+  margin: 4px 0px;
+  margin-left: 4px;
+}
+
+.pc2-template-grid {
+}
+
+.pc3-template-pnl {
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+
+#pc-template-img {
+  margin-top: 20px;
+}
+
+.cb {
+   background-image:url(/img/table.jpg);
+
+} 
+
+.inp-text {
+   font-weight: bold;
+   margin: 4px 0px;
+   margin-left: 4px;
+}
+
+.inp-junk-catchall {
+   background-color: #2f2F4F;
+   color: white;
+   background-color: #8F4F8F;
+   font-size: x-small;
+  background-color: #86959F;
+   margin: 1px 1px;
+   margin-left: 1px;
+}
+
+.inp-but {
+   background-color: #CF0000;
+   font-weight: bold;
+   font-size:   medium;
+}
+
+.error-but {
+   font-weight: bold;
+   font-size: x-small;
+}
+
+.error-window {
+   font-weight: bold;
+}
+
+.pc2-white-result {
+  background-color: #FFFFFF;
+  margin: 2px;
+  padding: 2px;
+  border-width: 1px;
+}
+
+.cf-results-area {
+  background-color: #FFFFFF;
+  font-weight: bold;
+}
+
+
+.foobar-inp-pnl {
+   background-color: bbb;
+}
+
+.inp-pnl {
+}
+
+.ccl {
+   color: black;
+   text-align: center;
+   font-weight: bold;
+}
+
+.ulabel {
+   background-color: bbb;
+  font-weight: bold;
+}
+
+.ubutton {
+   background-color: #707070;
+   font-weight: bold;
+   font-size:   small;
+}
+
+.urlp {
+   background-color: bbb;
+   font-size: large;
+   padding: 4px 4px;
+   margin:  4px 4px;
+}
+
